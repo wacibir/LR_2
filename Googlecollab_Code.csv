@@ -9,7 +9,6 @@ from sklearn.metrics import mean_squared_error, r2_score
 import warnings
 warnings.filterwarnings('ignore')
 
-
 # Настройка стиля
 plt.style.use('seaborn-v0_8-darkgrid')
 sns.set_palette("husl")
